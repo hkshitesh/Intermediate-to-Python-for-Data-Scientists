@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1C0q-gu_ZNGXN8wLLOvK_y5o8brsntLnN?usp=sh
 ## Lab Exercise 3- Functional Closures and Decorators in Python
 https://colab.research.google.com/drive/1Tb_PbKWgmDd8lISBiQWzGfLjGp51yJ5Q?usp=sharing
 
-## Lab Exercise 4- List Comprehensions, Generator Expressions, and Generator Functions
+## Lab Exercise 4- List Comprehensions, Generator Expressions, and Functions
 https://colab.research.google.com/drive/1SXrxVkp5ek5ff5hF_zUCnSJiOLDPiu96?usp=sharing
 
 ## Day 1 - Intermediate Python for Data Science
