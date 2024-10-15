@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1kQ0t7lGVfLw8CvZvKMBD0VH0NfenN6Ul?usp=sh
 https://colab.research.google.com/drive/1AwUOmxNKwUwjG4ampW53UXKs4Ydd7ar8?usp=sharing
 
 ## Day 2 - Part 2 - Intermediate Python for Data Science
-https://drive.google.com/file/d/1wlLbQFS7PIw576S93Y6QKLJS4IYrMzN_/view?usp=sharing
+https://drive.google.com/file/d/17oo5cbQwWF6YUhsizkMG8dI3fD0j0Sof/view?usp=sharing
 
 ## Day 3 - Part 1 - Intermediate Python for Data Science
 https://drive.google.com/file/d/1J1G61r4i94aU_2gHLIT-OwQAP0CPkAhF/view?usp=sharing
